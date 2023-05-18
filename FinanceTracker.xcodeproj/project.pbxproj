@@ -11,6 +11,7 @@
 		760A531D2A15D46500D9969C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 760A531C2A15D46500D9969C /* ContentView.swift */; };
 		760A531F2A15D46700D9969C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 760A531E2A15D46700D9969C /* Assets.xcassets */; };
 		760A53222A15D46700D9969C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 760A53212A15D46700D9969C /* Preview Assets.xcassets */; };
+		7617FCC92A15E7A800DCE189 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7617FCC82A15E7A800DCE189 /* Extensions.swift */; };
 		769AA2202A15D640008F32D7 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 769AA21F2A15D640008F32D7 /* .gitignore */; };
 		769AA2222A15D68C008F32D7 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 769AA2212A15D68C008F32D7 /* readme.md */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		760A531C2A15D46500D9969C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		760A531E2A15D46700D9969C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		760A53212A15D46700D9969C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7617FCC82A15E7A800DCE189 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		769AA21F2A15D640008F32D7 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		769AA2212A15D68C008F32D7 /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +63,7 @@
 				760A531C2A15D46500D9969C /* ContentView.swift */,
 				760A531E2A15D46700D9969C /* Assets.xcassets */,
 				760A53202A15D46700D9969C /* Preview Content */,
+				7617FCC82A15E7A800DCE189 /* Extensions.swift */,
 			);
 			path = FinanceTracker;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				760A531D2A15D46500D9969C /* ContentView.swift in Sources */,
+				7617FCC92A15E7A800DCE189 /* Extensions.swift in Sources */,
 				760A531B2A15D46500D9969C /* FinanceTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
